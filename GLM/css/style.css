@@ -31,7 +31,7 @@ p{
 .top{
    
     text-align: center;
-    background-color:#e0dede;
+    background-color:#eeeeee;
     position: relative;
 }
 
@@ -46,7 +46,7 @@ p{
 }
 
 .middle{
-    background-color:#89c9b8;
+    background-color:#32e0c4;
     margin: 0;
     
 }
@@ -62,7 +62,7 @@ p{
 }
 
 .contact{
-    background-color:#c7e2b2 ;
+    background-color:#393e46 ;
     margin: 0;
     text-align: center;
     padding: 20px 25px;
@@ -101,7 +101,7 @@ p{
   }  
 
 .footer{
-   background-color:#84a9ac ;
+   background-color:#222831 ;
    text-align: center;
    margin: 0;
    padding: 10px 25px;
